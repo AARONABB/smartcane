@@ -1,0 +1,83 @@
+Low-Cost Smart Helmet for the Visually Impaired
+
+Problem Statement:
+Millions of people worldwide suffer from visual impairments, making daily activities challenging. Many assistive devices are too expensive. There is a need for affordable and advanced assistive devices to help these individuals lead more independent lives.
+
+SDG 3: Good Health and Well-being
+Why It Fits: Our smart helmet improves health by providing visually impaired individuals with better navigation assistance, enhancing their quality of life by making it more affordable. Many people can't afford expensive assistive devices, which can cost thousands of dollars.
+
+SDG 9: Industry, Innovation, and Infrastructure
+Why It Fits: Our smart helmet uses new technology to create a low-cost assistive device, promoting innovation. It also helps build better healthcare solutions and skills to upgrade it.
+
+Supporting NGOs for Visually Impaired:
+Narayan Seva Sansthan has a fully equipped workshop dedicated to providing assistive devices to those in need. They offer customized solutions and support to visually impaired individuals.
+
+Materials (Pricing):
+1. **NodeMcu 8266 12-e:** 326 INR
+2. **Helmet:** 2190 INR
+3. **Wires:** 50 INR
+4. **Ultrasonic Sensors:** 71 INR x 4
+5. **Battery:** 300 INR
+6. **Speakers:** 60 INR
+
+
+Key Features for the Low-Cost Smart Helmet for the Visually Impaired
+
+1. Ultrasonic Sensors
+- Function: Detect obstacles in the user's path.
+- Placement: Front, sides, and back of the helmet.
+- Benefit: Provides comprehensive coverage to alert the user about obstacles from all directions.
+
+
+
+ 2. Vibration Motors
+- Function: Provide haptic feedback for obstacle detection.
+- Placement: Inside the helmet at different points.
+- Benefit: Alerts the user through vibrations, which is particularly useful in noisy environments where audio cues might be missed.
+
+
+ 3. Audio Feedback System
+- Function: Convert sensor data into audio cues.
+- Components: Small speakers or headphones.
+- Benefit: Provides real-time feedback about the proximity of obstacles, helping the user navigate safely.
+
+ 4. Emergency Alert System
+- Function: Send an alert to a pre-set emergency contact in case of an emergency.
+- Components: Panic button, GPS module.
+- Benefit: Ensures the safety of the user by providing a quick way to notify someone in case of trouble.
+
+5. Bluetooth Connectivity
+- Function: Connect the helmet to a smartphone.
+- Benefit: Allows for the integration of smartphone apps, enabling features like voice commands, emergency calling, and additional navigation support.
+
+ 6. Battery Level Indicator
+- Function: Display the current battery level of the helmet.
+- Benefit: Ensures the user is aware of the power status, preventing unexpected shutdowns.
+
+7. Voice Assistant Integration
+- Function: Use voice commands to control the helmet and get information.
+- Benefit: Hands-free operation allows the user to interact with the device easily, enhancing usability and safety.
+
+8. GPS Navigation
+- Function: Provide location tracking and navigation assistance.
+- Components: GPS module.
+- Benefit: Helps users navigate to specific destinations and can be integrated with navigation apps for route guidance.
+
+9. Light Sensors
+- Function: Detects changes in ambient light.
+- Benefit: Can alert the user when they move from a well-lit area to a dark area or vice versa, helping them adjust to changes in lighting conditions.
+
+10. Weather Sensors
+- Function: Detect rain and high temperatures.
+- Benefit: Alerts the user about weather changes, helping them prepare and stay safe during adverse conditions.
+
+
+
+11. Obstacle Distance Indicator**
+- Function: Measure the distance to obstacles.
+- Benefit: Provides precise information about how far away obstacles are, giving users better spatial awareness.
+
+12. Charging Port and Long Battery Life
+- Function: Easy recharging and extended usage time.
+- Benefit: Ensures the helmet is convenient to use and doesn't require frequent charging.
+
